@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\bin\Debug\net6.0\EstructurasCondicionales.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\bin\Debug\net6.0\EstructurasCondicionales.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\bin\Debug\net6.0\EstructurasCondicionales.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\bin\Debug\net6.0\EstructurasCondicionales.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\bin\Debug\net6.0\EstructurasCondicionales.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\refint\EstructurasCondicionales.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\EstructurasCondicionales.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EstructurasCondicionales\obj\Debug\net6.0\ref\EstructurasCondicionales.dll

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPrimerAPP", "MyPrimerAPP\MyPrimerAPP.csproj", "{C54A007E-A15A-446C-8F2D-C4E0519102E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPrimerAPP", "MyPrimerAPP\MyPrimerAPP.csproj", "{C54A007E-A15A-446C-8F2D-C4E0519102E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDesktop", "AppDesktop\AppDesktop.csproj", "{BA829C67-31C2-4E67-A9CC-39CAB9D64349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppDesktop", "AppDesktop\AppDesktop.csproj", "{BA829C67-31C2-4E67-A9CC-39CAB9D64349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasCondicionales", "EstructurasCondicionales\EstructurasCondicionales.csproj", "{3F8B9848-C272-4B9C-A69C-792EC40D27DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BA829C67-31C2-4E67-A9CC-39CAB9D64349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA829C67-31C2-4E67-A9CC-39CAB9D64349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA829C67-31C2-4E67-A9CC-39CAB9D64349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8B9848-C272-4B9C-A69C-792EC40D27DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8B9848-C272-4B9C-A69C-792EC40D27DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8B9848-C272-4B9C-A69C-792EC40D27DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8B9848-C272-4B9C-A69C-792EC40D27DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
