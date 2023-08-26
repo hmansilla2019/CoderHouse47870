@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\bin\Debug\net6.0\MayorMenor.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\bin\Debug\net6.0\MayorMenor.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\bin\Debug\net6.0\MayorMenor.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\bin\Debug\net6.0\MayorMenor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\bin\Debug\net6.0\MayorMenor.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\refint\MayorMenor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\MayorMenor.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MayorMenor\obj\Debug\net6.0\ref\MayorMenor.dll
