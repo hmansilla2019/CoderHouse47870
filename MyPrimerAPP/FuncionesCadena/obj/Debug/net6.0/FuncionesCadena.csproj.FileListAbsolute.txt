@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\bin\Debug\net6.0\FuncionesCadena.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\bin\Debug\net6.0\FuncionesCadena.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\bin\Debug\net6.0\FuncionesCadena.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\bin\Debug\net6.0\FuncionesCadena.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\bin\Debug\net6.0\FuncionesCadena.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\refint\FuncionesCadena.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\FuncionesCadena.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\FuncionesCadena\obj\Debug\net6.0\ref\FuncionesCadena.dll

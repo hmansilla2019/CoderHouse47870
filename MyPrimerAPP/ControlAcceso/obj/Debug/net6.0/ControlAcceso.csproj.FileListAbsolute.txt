@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\bin\Debug\net6.0\ControlAcceso.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\bin\Debug\net6.0\ControlAcceso.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\bin\Debug\net6.0\ControlAcceso.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\bin\Debug\net6.0\ControlAcceso.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\bin\Debug\net6.0\ControlAcceso.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\refint\ControlAcceso.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ControlAcceso.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ControlAcceso\obj\Debug\net6.0\ref\ControlAcceso.dll
