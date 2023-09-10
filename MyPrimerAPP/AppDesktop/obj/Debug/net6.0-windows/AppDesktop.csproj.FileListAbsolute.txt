@@ -1,0 +1,17 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\bin\Debug\net6.0-windows\AppDesktop.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\bin\Debug\net6.0-windows\AppDesktop.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\bin\Debug\net6.0-windows\AppDesktop.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\bin\Debug\net6.0-windows\AppDesktop.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\bin\Debug\net6.0-windows\AppDesktop.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.Form1.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.csproj.GenerateResource.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\refint\AppDesktop.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\AppDesktop.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppDesktop\obj\Debug\net6.0-windows\ref\AppDesktop.dll

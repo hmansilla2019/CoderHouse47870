@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\bin\Debug\net6.0\MyPrimerAPP.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\bin\Debug\net6.0\MyPrimerAPP.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\bin\Debug\net6.0\MyPrimerAPP.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\bin\Debug\net6.0\MyPrimerAPP.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\bin\Debug\net6.0\MyPrimerAPP.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\refint\MyPrimerAPP.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\MyPrimerAPP.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\MyPrimerAPP\obj\Debug\net6.0\ref\MyPrimerAPP.dll

@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\bin\Debug\net6.0\AppBanco.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\bin\Debug\net6.0\AppBanco.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\bin\Debug\net6.0\AppBanco.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\bin\Debug\net6.0\AppBanco.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\bin\Debug\net6.0\AppBanco.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\refint\AppBanco.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\AppBanco.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\AppBanco\obj\Debug\net6.0\ref\AppBanco.dll

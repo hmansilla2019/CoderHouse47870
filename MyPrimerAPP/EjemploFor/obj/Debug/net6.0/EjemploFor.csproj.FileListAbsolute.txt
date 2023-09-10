@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\bin\Debug\net6.0\EjemploFor.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\bin\Debug\net6.0\EjemploFor.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\bin\Debug\net6.0\EjemploFor.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\bin\Debug\net6.0\EjemploFor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\bin\Debug\net6.0\EjemploFor.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\refint\EjemploFor.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\EjemploFor.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\EjemploFor\obj\Debug\net6.0\ref\EjemploFor.dll
