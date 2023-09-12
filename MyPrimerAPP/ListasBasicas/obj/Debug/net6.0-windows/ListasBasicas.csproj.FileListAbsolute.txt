@@ -1,0 +1,17 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\bin\Debug\net6.0-windows\ListasBasicas.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\bin\Debug\net6.0-windows\ListasBasicas.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\bin\Debug\net6.0-windows\ListasBasicas.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\bin\Debug\net6.0-windows\ListasBasicas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\bin\Debug\net6.0-windows\ListasBasicas.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.Form1.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.csproj.GenerateResource.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\refint\ListasBasicas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ListasBasicas.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\ListasBasicas\obj\Debug\net6.0-windows\ref\ListasBasicas.dll
