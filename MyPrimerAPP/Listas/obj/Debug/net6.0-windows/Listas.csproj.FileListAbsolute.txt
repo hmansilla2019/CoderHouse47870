@@ -1,0 +1,17 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\bin\Debug\net6.0-windows\Listas.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\bin\Debug\net6.0-windows\Listas.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\bin\Debug\net6.0-windows\Listas.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\bin\Debug\net6.0-windows\Listas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\bin\Debug\net6.0-windows\Listas.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.Form1.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.csproj.GenerateResource.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\refint\Listas.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\Listas.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\Listas\obj\Debug\net6.0-windows\ref\Listas.dll

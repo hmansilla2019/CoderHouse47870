@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppBanco", "AppBanco\AppBanco.csproj", "{64089911-D465-418A-9125-6F1E5311485E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListasBasicas", "ListasBasicas\ListasBasicas.csproj", "{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListasBasicas", "ListasBasicas\ListasBasicas.csproj", "{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{90B6359E-34BD-4DF3-9CD7-4E4949B36880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
