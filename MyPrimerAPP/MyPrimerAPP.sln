@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppBanco", "AppBanco\AppBan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListasBasicas", "ListasBasicas\ListasBasicas.csproj", "{0EDDBF98-A582-44D2-AB35-7876E71F6FF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{90B6359E-34BD-4DF3-9CD7-4E4949B36880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "Listas\Listas.csproj", "{90B6359E-34BD-4DF3-9CD7-4E4949B36880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestion", "SistemaGestion\SistemaGestion.csproj", "{8FB223F9-2CE9-4666-98F6-DC04B4715F08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B6359E-34BD-4DF3-9CD7-4E4949B36880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB223F9-2CE9-4666-98F6-DC04B4715F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB223F9-2CE9-4666-98F6-DC04B4715F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB223F9-2CE9-4666-98F6-DC04B4715F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB223F9-2CE9-4666-98F6-DC04B4715F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
