@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i6pW6Z+Ggv59JxxjaBMVlxRI3P7t6LWFVZ0k9sEBU0TXd+N5Te4TMQHbZgvKzRVn7dWbEipC3FoTPAw7st8tcA==",
-  "success": false,
+  "dgSpecHash": "PuJPCkpQB75O9+oQ5+OXnkuIzQi3puzTHkV+LG8ol3u0opCKFQ8t3DHgB26/UzCxgTuS1FiccoODjAVRXNZOfQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\ControlAcceso\\ControlAcceso.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Listas is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Listas supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Listas",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

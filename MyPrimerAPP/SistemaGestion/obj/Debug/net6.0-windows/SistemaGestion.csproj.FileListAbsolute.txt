@@ -22,3 +22,6 @@ C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.pdb
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.genruntimeconfig.cache
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\ref\SistemaGestion.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.frmAltaProducto.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.frmEliminarProducto.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestion\obj\Debug\net6.0-windows\SistemaGestion.frmMdificarProducto.resources

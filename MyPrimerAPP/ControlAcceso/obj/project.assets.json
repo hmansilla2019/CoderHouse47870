@@ -4,7 +4,7 @@
     "net6.0": {
       "Listas/1.0.0": {
         "type": "project",
-        "framework": "Unsupported,Version=v0.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Listas.dll": {}
         },
@@ -95,16 +95,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Listas is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Listas supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Listas",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }
