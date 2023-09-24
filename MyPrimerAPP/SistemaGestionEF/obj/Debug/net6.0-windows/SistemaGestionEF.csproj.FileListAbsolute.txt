@@ -1,0 +1,17 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEF.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEF.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEF.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEF.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEF.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.Form1.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.csproj.GenerateResource.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\refint\SistemaGestionEF.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEF\obj\Debug\net6.0-windows\ref\SistemaGestionEF.dll
