@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestion", "SistemaGe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionEF", "SistemaGestionEF\SistemaGestionEF.csproj", "{CB74CF5F-E1EB-42BC-B288-A421BF14585F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionAfter", "SistemaGestionAfter\SistemaGestionAfter.csproj", "{BB8EF96D-FE9E-4021-BDD1-B8745DB0A9D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionAfter", "SistemaGestionAfter\SistemaGestionAfter.csproj", "{BB8EF96D-FE9E-4021-BDD1-B8745DB0A9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionEntityFramework", "SistemaGestionEntityFramework\SistemaGestionEntityFramework.csproj", "{1123852B-E3EC-4781-949A-78B42A3AE882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{BB8EF96D-FE9E-4021-BDD1-B8745DB0A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB8EF96D-FE9E-4021-BDD1-B8745DB0A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB8EF96D-FE9E-4021-BDD1-B8745DB0A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1123852B-E3EC-4781-949A-78B42A3AE882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1123852B-E3EC-4781-949A-78B42A3AE882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1123852B-E3EC-4781-949A-78B42A3AE882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1123852B-E3EC-4781-949A-78B42A3AE882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
