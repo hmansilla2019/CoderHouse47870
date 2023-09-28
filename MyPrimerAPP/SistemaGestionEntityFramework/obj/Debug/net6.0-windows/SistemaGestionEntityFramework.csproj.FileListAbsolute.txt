@@ -60,4 +60,7 @@ C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFram
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\bin\Debug\net6.0-windows\System.Text.Json.dll
 C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\obj\Debug\net6.0-windows\SistemaGestionEntityFramework.frmClientes.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\obj\Debug\net6.0-windows\MayoristaEstrellaUI.frmClientes.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\obj\Debug\net6.0-windows\MayoristaEstrellaUI.frmCrearCliente.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\obj\Debug\net6.0-windows\MayoristaEstrellaUI.frmEliminarCliente.resources
+C:\Users\_Hugo\source\repos\CoderHouse47870\MyPrimerAPP\SistemaGestionEntityFramework\obj\Debug\net6.0-windows\MayoristaEstrellaUI.frmModificarCliente.resources

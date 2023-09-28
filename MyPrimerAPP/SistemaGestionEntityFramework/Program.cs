@@ -1,3 +1,5 @@
+using MayoristaEstrellaUI;
+
 namespace SistemaGestionEntityFramework
 {
     internal static class Program
