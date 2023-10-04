@@ -1,0 +1,12 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\refint\AppClientesEntities.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\AppClientesUser\AppClientesEntities\obj\Debug\net6.0\ref\AppClientesEntities.dll
