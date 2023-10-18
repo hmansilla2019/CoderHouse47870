@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WAwfj0FS+uqeJD9dYagQwytAWe0fSH1q2MWmv3KqBgY=",
+  "Source": "AppClientesUserWebAPI",
+  "BasePath": "_content/AppClientesUserWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
